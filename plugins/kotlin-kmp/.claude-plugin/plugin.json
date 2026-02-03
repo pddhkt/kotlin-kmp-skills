@@ -1,0 +1,9 @@
+{
+  "name": "kotlin-kmp",
+  "description": "Implementation agents and skills for Kotlin Multiplatform development including shared code, Android, iOS, SQLDelight, Ktor, and Koin",
+  "version": "1.0.0",
+  "author": {
+    "name": "pddhkt"
+  },
+  "keywords": ["kotlin", "kmp", "multiplatform", "android", "ios", "sqldelight", "ktor", "koin"]
+}

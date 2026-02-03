@@ -1,0 +1,19 @@
+{
+  "name": "kotlin-kmp-skills",
+  "owner": {
+    "name": "pddhkt"
+  },
+  "metadata": {
+    "description": "Kotlin Multiplatform stack skills for Team Claude",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "kotlin-kmp",
+      "source": "./plugins/kotlin-kmp",
+      "description": "Stack-specific skills and agents for Kotlin Multiplatform development including shared code, Android, iOS, SQLDelight, and Ktor",
+      "version": "1.0.0",
+      "keywords": ["kotlin", "kmp", "multiplatform", "android", "ios", "sqldelight", "ktor"]
+    }
+  ]
+}
