@@ -30,6 +30,7 @@ Claude Code plugin providing stack-specific skills and agents for Kotlin Multipl
 | koin | `/kotlin-kmp:koin` | Koin dependency injection |
 | android | `/kotlin-kmp:android` | Android-specific implementation |
 | ios | `/kotlin-kmp:ios` | iOS-specific implementation |
+| reflect | `/kotlin-kmp:reflect` | Push skill improvements back to source repo |
 
 ## Included Agents
 
@@ -78,7 +79,8 @@ kotlin-kmp-skills/
             ├── ktor/
             ├── koin/
             ├── android/
-            └── ios/
+            ├── ios/
+            └── reflect/
 ```
 
 ## License
